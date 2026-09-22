@@ -1,0 +1,51 @@
+SOVEREIGN PROPRIETARY LICENSE
+Copyright (c) 2026 Jessica — SNAPKITTYWEST / SnapKitty
+
+ALL RIGHTS RESERVED.
+
+This software, including all source code, object code, compiled artifacts,
+kernel implementations, assembly listings, PTX files, documentation, and
+associated materials (collectively, the "Software"), is the exclusive
+proprietary property of the copyright holder.
+
+NO PERMISSIONS ARE GRANTED.
+
+No person, entity, organization, corporation, government body, research
+institution, or artificial intelligence system is granted any right or
+license to:
+
+  (a) use, execute, run, or operate the Software or any portion thereof;
+  (b) copy, reproduce, or duplicate the Software in any form;
+  (c) modify, adapt, translate, transform, or create derivative works;
+  (d) distribute, publish, transmit, sublicense, or transfer the Software;
+  (e) incorporate the Software into any other work, product, or system;
+  (f) reverse engineer, decompile, disassemble, or otherwise attempt to
+      derive source code or underlying algorithms from the Software;
+  (g) train, fine-tune, or otherwise use the Software as input to any
+      machine learning or artificial intelligence system;
+  (h) use the Software in any commercial or non-commercial capacity.
+
+The Software is made visible solely as a public record of authorship,
+priority, and prior art. Visibility does not constitute a license.
+Forking, starring, cloning, or downloading this repository constitutes
+acknowledgment of these terms and does not confer any rights.
+
+CRYPTOGRAPHIC SEALING NOTICE
+
+The architecture, algorithms, mathematical constructs, kernel designs,
+and pipeline specifications contained herein are sealed under Ed25519
+signature and Blake3 hash as sovereign intellectual property. Any
+unauthorized use, reproduction, or derivation constitutes infringement
+and will be pursued to the fullest extent of applicable law.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL
+THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ANY USE OR
+ATTEMPTED USE THEREOF.
+
+For licensing inquiries: contact the copyright holder directly.
+Unauthorized use will be prosecuted.

@@ -1,0 +1,68 @@
+{
+  "source_directory": "C:\\Users\\jessi\\Desktop\\sovereign-cuda-kernels",
+  "source_head": "aeeb439226f5d584c60776199268808c3cfc8d62",
+  "extracted_utc": "2026-09-22T06:30:26.3371048Z",
+  "method": "Byte-for-byte extraction of selected Sedona Spine source files from the local working tree",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 2443,
+      "sha256": "9D77F21AACAC5D288BFD1106C8D4DD16EB12EF6046EDCD995EB7FBE5E1E62903"
+    },
+    {
+      "path": "SOVEREIGN_TRUST_MANIFEST.md",
+      "bytes": 4438,
+      "sha256": "D34CE66D89723E08D2A124A39FBD4A092E37A672C9A9EA7A5A8EC41E427B2C36"
+    },
+    {
+      "path": "IP_TRUST_PROTOCOL.md",
+      "bytes": 8719,
+      "sha256": "BFC3CC5A714497BBFFA6CDAA76AFE7D30AF163384E225676F2C3C4C461E1EF71"
+    },
+    {
+      "path": "kernels/hyperkitty-pipeline/pipeline_constraint.xml",
+      "bytes": 112942,
+      "sha256": "7C9BA76A0A0C0D857D82EA39DAD43F57DD3507797012E2A0DAD7264B3CD6DB28"
+    },
+    {
+      "path": "kernels/lean4/parr-papers/Parr_Papers_Formalized_v2026.lean",
+      "bytes": 10059,
+      "sha256": "93D5D0C39DD9B50875D26AFF8C9C92E993A6CF335828CAE08745AB3A44955EFC"
+    },
+    {
+      "path": "kernels/lean4/qal/QAL_Formalized_v2026.lean",
+      "bytes": 19243,
+      "sha256": "2B4E2CC623CB44774FD08D5D82F00D680718529AFC134718D8C0B926C7C2046D"
+    },
+    {
+      "path": "kernels/lean4/HK_DSL_Tripartite.lean",
+      "bytes": 11202,
+      "sha256": "7104D315F5DB82BF0BA7442DC8D85AD4A6C1CD8489CFDD97440F6D54005D53FE"
+    },
+    {
+      "path": "kernels/lean4/hkdsl/HK_DSL_Formalized_v2026.lean",
+      "bytes": 12462,
+      "sha256": "E1F5240FD36DB5F8482842DED339E78DE7F33745E123BD4753FE5A74489BBCCE"
+    },
+    {
+      "path": "kernels/lean4/proofs/SnapKitty_Proofs_Witness_Stack_v2026.lean",
+      "bytes": 10139,
+      "sha256": "812287213BD52EBDD181B6EF67EFC7E15BA6205F217BDD2C59F6A19716A4CB94"
+    },
+    {
+      "path": "kernels/lean4/boole-e7/Boole_E7_GKN_Formalized_v2026.lean",
+      "bytes": 10655,
+      "sha256": "F73B66C7ABEBE2BA4866E94ACFB0398FBFDB53CAA5983EA6AC26CC92043C557C"
+    },
+    {
+      "path": "kernels/lean4/mythos/Mythos_Cryptanalysis_Swarm_v2026.lean",
+      "bytes": 14299,
+      "sha256": "9CBEFD44662517F13AC134750CCE018CFE0EB11D7B954446F7293264DB1662EA"
+    },
+    {
+      "path": "kernels/proofs/symbolic_law/snapkitty_proofs.pl",
+      "bytes": 6613,
+      "sha256": "1C4079D414F066D538957EA3E5C8FF9757B03103BB2EB9EEC348FF3EBC86C47C"
+    }
+  ]
+}
