@@ -1,0 +1,83 @@
+{
+  "source_directory": "C:\\Users\\jessi\\Desktop\\sovereign-cuda-kernels",
+  "source_head": "aeeb439226f5d584c60776199268808c3cfc8d62",
+  "extracted_utc": "2026-09-22T06:35:32.9676218Z",
+  "method": "Byte-for-byte extraction from local working tree; existing source claims and attribution preserved",
+  "files": [
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/AES_10Round_Terminal_Result.lean",
+      "bytes": 10511,
+      "sha256": "446EDE6F9B9A18B155BCA26E1AE37814A3376A8CC7232DEE6576A1134792BD4B"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/AES_10ROUND_TERMINAL_RESULT.md",
+      "bytes": 7216,
+      "sha256": "ED22F787F156C7F83CA5D6123F4388FF60D49428754FE58EF8FBEAC3FCEAD132"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/AES_Algebraic_Structure.lean",
+      "bytes": 8992,
+      "sha256": "B09D49ED373239ED0534FF52E7F5D11366FA4BC70964395066059ADF04A5CC5A"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/aes_algebraic_structure.py",
+      "bytes": 20122,
+      "sha256": "E3C22AF5DBA21932086D60BA1F8F6549B2778087AAC56C13C314C6C23200E24D"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/aes_differential_trail_search.py",
+      "bytes": 8043,
+      "sha256": "2C9094C5A3699A177F0AA45DBE20CBF5DCDDE7E9C969E40F60CC2809D99FC8FB"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/aes_mobius_bridge_attack.py",
+      "bytes": 18685,
+      "sha256": "FF28CD60258447CE61DC6F80DCDB3AC8E8B7671F8EDE11DCC1C14232872AB775"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/AES_Mobius_Bridge_Theorems.lean",
+      "bytes": 8229,
+      "sha256": "810620146BE0E43233A8D45FFFC2C191CAB26B52BCEAEB040A9255018E546DA6"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/AES_Trail_Invariants.lean",
+      "bytes": 8080,
+      "sha256": "AB1718CE10BA2204DB3C73508C0F445A460D961373B5E6D434CD4FF560921062"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/gf256_log_gauge.py",
+      "bytes": 17151,
+      "sha256": "B9795DEC0A18EDBB621AEA2513D29644CCE893B207E7EA17337163AC8DFADF00"
+    },
+    {
+      "path": "kernels/cryptanalysis/aes_mobius_bridge/TRAIL_RESULTS.md",
+      "bytes": 4481,
+      "sha256": "39930F6662725D6330FF89A535B79B6B179ABB2E7C943B50E1D30CB133B7A141"
+    },
+    {
+      "path": "kernels/cryptanalysis/phase_engine/Rhythmic_Fibonacci_Phase_Engine.lean",
+      "bytes": 7615,
+      "sha256": "4C078A2A38535873943C0A83068D0E994C19BB108F355DD50B8FDAD37E10F6CB"
+    },
+    {
+      "path": "kernels/cryptanalysis/phase_engine/rhythmic_fibonacci_phase.py",
+      "bytes": 14016,
+      "sha256": "4883B2663A0DAFF706BCC18B965AEE89814261F73165D729CC91AF339621D672"
+    },
+    {
+      "path": "AES_CLAIM_REGISTRY.md",
+      "bytes": 9608,
+      "sha256": "9DE7424527B1462E6EE7DD2E12F363792051708F582A17B760D25D867A34F447"
+    },
+    {
+      "path": "AHMAD_CRYPTANALYSIS_PAPER.md",
+      "bytes": 15500,
+      "sha256": "D627E40CE72DB6E01C3366B95DFA2209ABDF9E92A2CDCF288CC3225D45C204F9"
+    },
+    {
+      "path": "ENCRYPTION_PRIOR_ART_REGISTRY.md",
+      "bytes": 6168,
+      "sha256": "73EC8191C9A4129D2114D234D826D22AA16DBD296BC4CF9E6E9922057403C672"
+    }
+  ]
+}

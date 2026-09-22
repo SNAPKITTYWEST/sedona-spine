@@ -33,3 +33,14 @@ Dates and sealing statements inside the source files are preserved as supplied. 
 ## License
 
 The original [Sovereign Proprietary License](LICENSE) is retained. This repository is publicly visible as a source record; the original rights and attribution notices remain in effect.
+## Cryptanalysis source collection
+
+The original cryptanalysis directory is included with its source paths and headers preserved:
+
+- [AES / Mobius bridge](kernels/cryptanalysis/aes_mobius_bridge/): algebraic structure, GF(256) log gauge, bridge search, differential-trail search, Lean declarations, and result documents.
+- [Rhythmic Fibonacci phase engine](kernels/cryptanalysis/phase_engine/): Python implementation and accompanying Lean source.
+- [Cryptanalysis paper](AHMAD_CRYPTANALYSIS_PAPER.md).
+- [AES claim registry](AES_CLAIM_REGISTRY.md).
+- [Encryption prior-art registry](ENCRYPTION_PRIOR_ART_REGISTRY.md).
+
+[CRYPTOANALYSIS_PROVENANCE.json](CRYPTOANALYSIS_PROVENANCE.json) records SHA-256 hashes for these 15 unchanged source files. Claims and result labels in the copied documents belong to the supplied research record. Python imports include PuLP for differential-trail search; the Lean sources import Mathlib.
